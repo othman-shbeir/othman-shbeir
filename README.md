@@ -71,23 +71,5 @@
 
 ---
 
-## 💼 Experience
-
-- **Teaching Assistant — Programming 3 Lab**  
-  JavaFX, Streams/FP, Spring, Multithreading; mentored 150+ students (labs, code reviews, workshops).
-
-- **AI Engineer Intern — AURA for Integrated Solutions**  
-  Built computer-vision pipelines with PyTorch/TensorFlow and YOLO across multiple production projects.
-
----
-
-## 🎓 Education & Achievements
-
-- **B.Sc. in Computer Science — Islamic University of Gaza (Valedictorian)**  
-- Awards: **Climate Thinkathon Champion**, **Udacity Hackathon (6th place)**  
-- Certifications: **Udacity Data Science Nanodegree**, **Google IT Automation with Python**, **Google Project Management**
-
----
-
 ## ⚡ **Fun Fact:** 
 🤖 I don’t just binge-watch movies or anime—I build recommender systems that help thousands decide what to watch next.
