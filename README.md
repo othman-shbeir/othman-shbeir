@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-- 🎓 **B.Sc. in Computer Science — Valedictorian**
+- 🎓 **B.Sc. in Computer Science: Valedictorian**
 - 🧑‍🏫 **Teaching Assistant** (JavaFX, Streams/FP, Spring, Multithreading)
 - 🤖 I build **human-centered ML systems** for computer vision, recommender systems, and analytics.
 - 🚀 Ex-**AI Engineer Intern @ AURA** (PyTorch/TensorFlow, YOLO)
@@ -72,4 +72,4 @@
 ---
 
 ## ⚡ **Fun Fact:** 
-🤖 I don’t just binge-watch movies or anime—I build recommender systems that help thousands decide what to watch next.
+🤖 I don’t just binge-watch movies or anime, I build recommender systems that help thousands decide what to watch next.
