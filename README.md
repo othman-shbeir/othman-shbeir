@@ -6,7 +6,7 @@ I’m a Computer Science valedictorian and AI/ML engineer focused on computer vi
 ---
 
 ## ⚡ **Fun Fact:** 
-🤖 I don’t just binge-watch movies or anime, I build recommender systems that help thousands decide what to watch next.
+🤖 Every bug I’ve faced ,in life or in code, was just a breakpoint on the path to growth. Perseverance is my debugger, and passion is my compiler.
 
 ---
 
